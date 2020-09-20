@@ -45,6 +45,8 @@ h2 {
 main ul li {
     padding: 10px;
     margin-left: 40px;
+    font-size: 20px;
+    list-style-type: circle;
 }
 
 .picture {
